@@ -1,5 +1,4 @@
-# Gen AI Resource Guide
-5/30/2024
+# 5/30/2024 - Gen AI Resource Guide
 
 <p><a href="https://gsa.zoomgov.com/meeting/register/vJItfuqhqjouGJnFjKm_dpeDyWXk-gvBeQs">Register here</a> with a .GOV or .MIL email address.
 
