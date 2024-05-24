@@ -1,4 +1,4 @@
-# Gen_AI_Resource_Guide_5302024
+# Gen AI Resource Guide (5302024)
 <p><a href="https://gsa.zoomgov.com/meeting/register/vJItfuqhqjouGJnFjKm_dpeDyWXk-gvBeQs">Register here</a> with a .GOV or .MIL email address.
 
 Join the AI CoP community as Udaya Patnaik, Chief Innovation Officer for the IT Category (ITC) in the Federal Acquisition Service, provides an overview of the Generative AI and Specialized Computing Infrastructure Acquisition Resource Guide. 
