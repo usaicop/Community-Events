@@ -1,6 +1,6 @@
 ### 📆 Current Events
 
-**Join us virtually at our next event**
+**Join us virtually at our next event!**
 * June 27, 2024 | Exploring the AI Community of Practice Collaborative Prototype
 * July | Disability Pride Month
 <br>
