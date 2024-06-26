@@ -13,3 +13,4 @@ Visit our [community connect page](https://community.connect.gov/display/GSA/FY2
 
 In FY 2023, the AI CoP hosted 27 government-wide events characterized by high attendee satisfaction, have been instrumental in providing cross-government guidance and showcasing innovative AI applications in federal operations. Visit [AI Training](https://github.com/usaicop/AI-Training) to view the recordings.
 
+<br>
